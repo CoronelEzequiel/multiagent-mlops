@@ -1,0 +1,16 @@
+{
+  "fecha": "2025-11-11T04:30:08.777Z",
+  "total_reviews_input": 3,
+  "reviews_inferidas": 2,
+  "reviews_descartadas": 1,
+  "tasa_procesamiento": 66.67,
+  "tasa_descarte": 33.33,
+  "positivas": 1,
+  "negativas": 1,
+  "porcentaje_positivas": 50,
+  "porcentaje_negativas": 50,
+  "score_promedio": 0.9992,
+  "score_promedio_positivas": 0.9989,
+  "score_promedio_negativas": 0.9995,
+  "sentiment_index": 0
+}
