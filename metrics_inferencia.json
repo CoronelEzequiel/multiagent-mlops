@@ -1,16 +1,16 @@
 {
-  "fecha": "2025-11-11T06:08:55.469Z",
-  "total_reviews_input": 10,
-  "reviews_inferidas": 9,
+  "fecha": "2025-11-11T06:23:27.491Z",
+  "total_reviews_input": 4,
+  "reviews_inferidas": 3,
   "reviews_descartadas": 1,
-  "tasa_procesamiento": 90,
-  "tasa_descarte": 10,
-  "positivas": 6,
-  "negativas": 3,
-  "porcentaje_positivas": 66.67,
-  "porcentaje_negativas": 33.33,
-  "score_promedio": 0.9991,
+  "tasa_procesamiento": 75,
+  "tasa_descarte": 25,
+  "positivas": 1,
+  "negativas": 2,
+  "porcentaje_positivas": 33.33,
+  "porcentaje_negativas": 66.67,
+  "score_promedio": 0.9993,
   "score_promedio_positivas": 0.9989,
   "score_promedio_negativas": 0.9995,
-  "sentiment_index": 0.333
+  "sentiment_index": -0.333
 }
